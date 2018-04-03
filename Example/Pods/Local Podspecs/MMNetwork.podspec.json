@@ -1,0 +1,30 @@
+{
+  "name": "MMNetwork",
+  "version": "0.1.0",
+  "summary": "MMNetwork is a rac request util based on YTKNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MyGitHubModule/MMNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BreadAwesome": "AnotherChase@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/MyGitHubModule/MMNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MMNetwork/Classes/**/*",
+  "dependencies": {
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "YTKNetwork": [
+      "~> 2.0.4"
+    ]
+  }
+}
